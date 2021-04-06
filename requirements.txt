@@ -1,5 +1,5 @@
 pandas
-streamlit
+streamlit==2.2.2
 plotly
 python-dotenv
 altair
